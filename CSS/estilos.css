@@ -1,0 +1,235 @@
+
+body{
+  font-family: Arial, sans-serif;
+  margin: 0;/* Elimina márgenes predeterminados */
+  background: rgb(26, 136, 63); /* Color de fondo */ 
+  background-image: url(./img/descarga.png);
+  background-size: cover;
+}
+
+/* ============ ¡IMPORTANTE PARA LA RESOLUCIÓN! ============*/
+.container{
+  width: 100%;
+  max-width: 1200px; /* Puedes ajustar el ancho máximo según tus necesidades */
+  margin: 0 auto;  /* Centra horizontalmente */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1vh;
+  box-sizing: border-box;
+  border: 1px solid; /* Borde */
+  border-radius: 10px; /* Bordes redondeados */
+}
+
+/* ============ Sección principal ============*/
+.MainHero{
+  background: rgb(212, 214, 210);
+  padding: 10px;
+  border: 0px solid;
+  border-radius: 8px;
+  box-sizing: border-box;
+
+}
+
+/* ============ Contenido de la sección principal ============ */
+.Herocontent {
+    max-width: 1200px; /* Ancho máximo del contenido */
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+  }
+
+/* Media queries para diseño responsive */
+@media screen and (max-width: 1200px) {
+    /* Para dispositivos con ancho de pantalla de 800px o menos */
+    .container {
+        width: 95%; /* Ancho máximo del contenido en pantallas pequeñas */
+      }
+    .MainHero {
+      padding: 10px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    /* Para dispositivos con ancho de pantalla de 480px o menos */
+    .container {
+        width: 100%; /* Ancho máximo del contenido en pantallas muy pequeñas */
+        margin: auto;
+      }
+    .Herocontent{
+        max-width: 100%;
+    }
+    }
+
+/* ============ Barra de navegación ============ */
+.Chain{
+  padding-block: 1em;
+  background:rgb(36, 37, 37); /* Color del menú */
+  display: flex;
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 8px;
+  border: 1px solid;
+}
+/* Texto especial en la barra de navegación */
+#Specialtxt{
+  align-items: end;
+  font-size: 42px;
+  font-style: italic;
+  color: rgb(112, 214, 17)
+
+}
+/* Enlaces en la barra de navegación */
+.B{
+  color: rgb(112, 214, 17) /* Color del texto */
+}
+.B:hover{
+  color: rgb(112, 214, 17) /* Color del texto al pasar el mouse */
+}
+
+/* Título principal */
+.PrimerText{
+  color: rgb(112, 214, 17) /* Color del texto */
+}
+
+/* Texto desaturado */
+.Nimptxt{
+  color: rgb(85, 85, 85);
+}
+
+ /* Lista de enlaces en la barra de navegación */
+nav ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* Elementos de la lista en la barra de navegación */
+nav ul li{
+  margin: 0 10px;
+}
+
+/* Botones de la barra de navegación*/
+.boton{
+  display: inline-block;
+  padding: 10px 20px;
+  background: rgb(36, 37, 37);
+  color:rgb(112, 214, 17);
+  text-decoration: none;
+  border-radius: 4px;
+  transition:transform 0.3s, background-color 0.3s, font-size 0.3s; 
+}
+
+/* Cambio de color al pasar el mouse por encima */
+.boton:hover{
+  background: rgb(81, 149, 72 );
+  font-size: 25px;
+}
+
+/* Efecto al hacer clic */
+.boton:active{
+  transform: translateY(2px);   
+}
+/* ============ Contenedor para el acordeón ============ */
+.accordion-container{
+  width: 92%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Acordeón / Contenido desplegable Horizontalmente*/
+.accordion {
+  width: 90%;
+}
+
+.accordion-item {
+  background-color: rgb(36, 37, 37);
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  margin-bottom: 20px;
+  border-radius: 30px;
+  transition: background-color 0.4s;
+}
+
+ /* Elementos del acordeón */
+.accordion-content {
+  background-color:rgb(212, 214, 210) ;
+  max-height: 0;
+  overflow: hidden;
+  padding: 0 10px;
+  border-radius: 30px;
+  transition: max-height 1s ease-in-out, padding 0.5s ease-in-out;
+}
+
+.accordion-item input[type="checkbox"] {
+  display: none;
+}
+
+.accordion-item input[type="checkbox"]:checked + .accordion-content {
+  max-height: 500px; /* Ajusta la altura máxima según sea necesario */
+  padding: 10px;
+  transition: max-height 1.7s ease-in-out, padding 0.8s ease-in-out;
+}
+
+/* Ajuste para las etiquetas label */
+label.accordion-header {
+  font-style: italic;
+  color: rgb(112, 214, 17);
+  font-size: 1.5rem; /* Tamaño similar a h3 */
+  font-weight: bolder; /* Ajusta el grosor según tus preferencias */
+}  
+/* ============ Pie de página ============ */
+  .Lastline{
+  margin: 1em;
+  padding-block: 1em;
+  background: rgb(37, 36, 36);
+  display: flex;
+  border-radius: 8px;  
+  border: 1px solid; 
+  }
+  /* Lista en el pie de página */
+  .feet{
+      list-style-type: none;
+  }
+
+  #slider{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    overflow:hidden;
+    background-color: black;
+}
+/*Valores de las imagenes*/
+#slider img{
+    margin: 0 auto;
+    -moz-transition: opacity 2s;
+    -webkit-transition: opacity 2s;
+    transition: opacity 2s;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    opacity: 0;
+}
+/*Para que la primera imagen este activa al inicio*/
+#slider img:nth-child(1){
+    opacity: 1;
+}
+
+table{
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+    overflow:hidden;
+    background-color: white;
+    border: 0;
+}
+
+#izquierda{
+    text-align: right;
+}
+#derecha{
+    text-align: left;
+}
+/* ... */
