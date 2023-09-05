@@ -69,6 +69,7 @@ body{
   padding-block: 1em;
   background:rgb(36, 37, 37); /* Color del menú */
   display: flex;
+  justify-content: space-between;
   margin-left: 1em;
   margin-right: 1em;
   border-radius: 8px;
