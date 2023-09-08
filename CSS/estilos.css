@@ -2,7 +2,7 @@
 body{
   font-family: Arial, sans-serif;
   margin: 0;/* Elimina márgenes predeterminados */
-  background: rgb(26, 136, 63); /* Color de fondo */ 
+  background: #1a883f; /* Color de fondo */ 
   background-image: url(./img/descarga.png);
   background-size: cover;
 }
@@ -23,7 +23,7 @@ body{
 
 /* ============ Sección principal ============*/
 .MainHero{
-  background: rgb(212, 214, 210);
+  background: #d4d6d2;
   padding: 10px;
   border: 0px solid;
   border-radius: 8px;
@@ -74,25 +74,25 @@ body{
   align-items: end;
   font-size: 42px;
   font-style: italic;
-  color: rgb(112, 214, 17)
+  color: #70d611
 
 }
 /* Enlaces en la barra de navegación */
 .B{
-  color: rgb(112, 214, 17) /* Color del texto */
+  color: #70d611 /* Color del texto */
 }
 .B:hover{
-  color: rgb(112, 214, 17) /* Color del texto al pasar el mouse */
+  color: #70d611 /* Color del texto al pasar el mouse */
 }
 
 /* Título principal */
 .PrimerText{
-  color: rgb(112, 214, 17) /* Color del texto */
+  color: #70d611 /* Color del texto */
 }
 
 /* Texto desaturado */
 .Nimptxt{
-  color: rgb(85, 85, 85);
+  color: #555555;
 }
 
  /* Lista de enlaces en la barra de navegación */
@@ -113,8 +113,8 @@ nav ul li{
 .boton{
   display: inline-block;
   padding: 10px 20px;
-  background: rgb(36, 37, 37);
-  color:rgb(112, 214, 17);
+  background: #242525;
+  color:#70d611;
   text-decoration: none;
   border-radius: 4px;
   transition:transform 0.3s, background-color 0.3s, font-size 0.3s; 
@@ -122,7 +122,7 @@ nav ul li{
 
 /* Cambio de color al pasar el mouse por encima */
 .boton:hover{
-  background: rgb(81, 149, 72 );
+  background: #519548;
   font-size: 25px;
 }
 
@@ -155,7 +155,7 @@ nav ul li{
 
  /* Elementos del acordeón */
 .accordion-content {
-  background-color:rgb(212, 214, 210) ;
+  background-color:#d4d6d2 ;
   max-height: 0;
   overflow: hidden;
   padding: 0 10px;
@@ -175,8 +175,8 @@ nav ul li{
 
 /* Ajuste para las etiquetas label */
 label.accordion-header {
-  font-style: italic;
-  color: rgb(112, 214, 17);
+  font-style: ubuntu;
+  color: #70d611;
   font-size: 1.5rem; /* Tamaño similar a h3 */
   font-weight: bolder; /* Ajusta el grosor según tus preferencias */
 }  
@@ -184,7 +184,7 @@ label.accordion-header {
   .Lastline{
   margin: 1em;
   padding-block: 1em;
-  background: rgb(37, 36, 36);
+  background: #252424;
   display: flex;
   border-radius: 8px;  
   border: 1px solid; 
@@ -199,7 +199,7 @@ label.accordion-header {
     width: 500px;
     height: 500px;
     overflow:hidden;
-    background-color: black;
+    background-color: #000000;
 }
 /*Valores de las imagenes*/
 #slider img{
@@ -222,7 +222,7 @@ table{
     width: 500px;
     height: auto;
     overflow:hidden;
-    background-color: white;
+    background-color: #ffffff;
     border: 0;
 }
 
