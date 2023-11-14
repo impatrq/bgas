@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BGas</string>
+    <string name="private_version">b76c6147de1089d7d5dda8603bba64a8fafa39eb</string>
+    <string name="presplash_color">black</string>
+    <string name="urlScheme">kivy</string>
+</resources>

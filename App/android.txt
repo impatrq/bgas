@@ -1,0 +1,3 @@
+title=BGas_proyect
+author=BGas_team
+orientation=portrait
