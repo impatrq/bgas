@@ -8,7 +8,8 @@ Repositorio del proyecto BGas
 - Daglio, Santiago
 - Ferman, Joaquin
 - Grochovski, Victor
-- Rossetti, Gonzalo
+- Rossetti, Gonzalo <br><br/>
+<img align="center" width="720px" src="https://github.com/impatrq/bgas/blob/main/Documentacion/IMG_0831.jpeg" />
 
 ## Objetivo:
 BGas es un sistema compuesto por un generador de biogas y un subsistema electronico de monitoreo, para leer los parametros en tiempo real del proceso mencionado, y asi tener una generacion mas facil y segura.
@@ -46,7 +47,7 @@ BGas es un sistema compuesto por un generador de biogas y un subsistema electron
 
 ## Seguinos en nuestras redes:
 [<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://github.com/impatrq/bgas/blob/main/App/images/logo.png" />][bgas]
+[<img align="left" height="64px" src="https://github.com/impatrq/bgas/blob/main/App/images/logo.png" />][bgas]
 
 
 
