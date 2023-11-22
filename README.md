@@ -15,24 +15,35 @@ BGas es un sistema compuesto por un generador de biogas y un subsistema electron
 
 ## Files tree
 
-#### Web
-- CNAME
-- CSS
-- img
-- index.html
-- JS
-#### App
-- android.txt
-- bin
-- buildozer.spec
-- datos.csv
-- images
-- main.kv
-- main.py
-- static
-#### Documentacion
-- Carpeta de campo
-- README
+- main
+  - App
+    - android.txt
+    - bin
+    - buildozer.spec
+    - main.kv
+    - main.py
+  - Documentacion
+    - Carpetas
+    - Banner
+    - Presentacion
+    - BOM (Bill Of Material)
+    - Manual de usuario
+  -Electronica
+    - Circuitos
+    - PCBs
+  - Estructura
+    - Visuales de la estructura
+  - Modelos
+    - Modelos de blender
+  - Programa principal
+    - main.py
+    - librerias
+  - Web
+    - CNAME
+    - CSS
+    - index.html
+    - JS
+
 ## Seguinos en nuestras redes:
 [<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://github.com/impatrq/bgas/blob/main/App/images/logo.png" />][bgas]
