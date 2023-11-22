@@ -2,13 +2,19 @@
 Repositorio del proyecto BGas
 
 ## Integrantes:
-- Britez, Franco
-- Caceres, Luca
-- Chioli, Lautaro
-- Daglio, Santiago
-- Ferman, Joaquin
-- Grochovski, Victor
-- Rossetti, Gonzalo <br><br/>
+- Britez, Franco  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinbr]
+
+- Caceres, Luca[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinca]
+
+- Chioli, Lautaro[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinch]
+
+- Daglio, Santiago[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinda]
+
+- Ferman, Joaquin[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinfe]
+
+- Grochovski, Victor[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedingr]
+
+- Rossetti, Gonzalo[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinro] <br><br/>
 <img align="center" width="720px" src="https://github.com/impatrq/bgas/blob/main/Documentacion/IMG_0831.jpeg" />
 
 ## Objetivo:
@@ -53,3 +59,10 @@ BGas es un sistema compuesto por un generador de biogas y un subsistema electron
 
 [instagram]: https://instagram.com/proyecto.bgas?igshid=NGVhN2U2NjQ0Yg==
 [bgas]: https://bgas.ar/
+[linkedinbr]: https://www.linkedin.com/in/franco-britez-b33523277/
+[linkedinca]: https://google.com/
+[linkedinch]: https://www.linkedin.com/in/lautaro-chioli-87a68a27a/
+[linkedinda]: https://google.com/
+[linkedinfe]: https://www.linkedin.com/in/joaquin-ferman-b8b843259/
+[linkedingr]: https://www.linkedin.com/in/victorgrochovski/
+[linkedinro]: https://google.com/
