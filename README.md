@@ -34,10 +34,8 @@ BGas es un sistema compuesto por un generador de biogas y un subsistema electron
 - Carpeta de campo
 - README
 ## Seguinos en nuestras redes:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="64px" src=Modelos/bgas_black />][bgas]
+[<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://github.com/impatrq/bgas/blob/main/App/images/logo.png" />][bgas]
 
 
 
