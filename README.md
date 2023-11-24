@@ -18,7 +18,13 @@ Repositorio del proyecto BGas
 <img align="center" width="720px" src="https://github.com/impatrq/bgas/blob/main/Documentacion/IMG_0831.jpeg" />
 
 ## Objetivo:
-BGas es un sistema compuesto por un generador de biogas y un subsistema electronico de monitoreo, para leer los parametros en tiempo real del proceso mencionado, y asi tener una generacion de energia mas facil y segura.
+BGas es un sistema compuesto por un generador de biogas y un subsistema electronico de monitoreo para leer los parametros en tiempo real del proceso mencionado, y asi tener una generacion de energia mas facil y segura.
+
+## ¿Que es el biogas?
+El biogas es un gas natural producido por la descomposicion anaerobica de materia organica. Este gas esta compuesto entre un 60% y 70% de metano, siendo el resto principalmente dioxido de carbono. El biogas y el biometano (que se obtiene luego de que el biogas pase por un proceso de filtrado para que solo quede el metano) son las dos formas de bioenergia de mas rapido crecimiento a nivel mundial y se espera que tengan un rol clave en la transicion hacia un mundo mas sostenible.
+
+## Funcionamiento 
+Los residuos organicos deben ser colocados en el recipiente de biogas donde se someterán a un proceso de descomposicion anaerobica. Se podrá ver el proceso de produccion de biogas mediante un LCD 16x2 controlado por tres botones, o a traves de una aplicacion para telefonos celulares. Al final del proceso, el usuario obtendrá biogas y biofertilizante.  
 
 ## Files tree
 
