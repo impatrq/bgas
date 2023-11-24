@@ -26,6 +26,9 @@ El biogas es un gas natural producido por la descomposicion anaerobica de materi
 ## Funcionamiento 
 Los residuos organicos deben ser colocados en el recipiente de biogas donde se someterán a un proceso de descomposicion anaerobica. Se podrá ver el proceso de produccion de biogas mediante un LCD 16x2 controlado por tres botones, o a traves de una aplicacion para telefonos celulares. Al final del proceso, el usuario obtendrá biogas y biofertilizante.  
 
+## ¿Donde utilizarlo?
+Si bien a un biodigestor se le puede sacar el maximo provecho en un establecimiento agropecuario o agroindustrial, incluso una casa en un area urbana puede crear una cantidad considerable de biogas. Nuestro sistema apunta a que cualquier establecimiento (ya sea rural o urbano) pueda generar energia de la forma mas eficiente posible. 
+
 ## Files tree
 
 - main
