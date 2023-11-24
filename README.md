@@ -18,7 +18,7 @@ Repositorio del proyecto BGas
 <img align="center" width="720px" src="https://github.com/impatrq/bgas/blob/main/Documentacion/IMG_0831.jpeg" />
 
 ## Objetivo:
-BGas es un sistema compuesto por un generador de biogas y un subsistema electronico de monitoreo, para leer los parametros en tiempo real del proceso mencionado, y asi tener una generacion mas facil y segura.
+BGas es un sistema compuesto por un generador de biogas y un subsistema electronico de monitoreo, para leer los parametros en tiempo real del proceso mencionado, y asi tener una generacion de energia mas facil y segura.
 
 ## Files tree
 
