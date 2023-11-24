@@ -31,6 +31,7 @@ BGas es un sistema compuesto por un generador de biogas y un subsistema electron
     - main.py
   - Documentacion
     - Carpetas
+    - Certificados
     - Banner
     - Presentacion
     - BOM (Bill Of Material)
