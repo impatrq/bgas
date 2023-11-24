@@ -62,7 +62,7 @@ BGas es un sistema compuesto por un generador de biogas y un subsistema electron
 [linkedinbr]: https://www.linkedin.com/in/franco-britez-b33523277/
 [linkedinca]: https://www.linkedin.com/in/luca-c%C3%A1ceres-996389281/
 [linkedinch]: https://www.linkedin.com/in/lautaro-chioli-87a68a27a/
-[linkedinda]: https://google.com/
+[linkedinda]: https://www.linkedin.com/in/santiago-daglio-96b716295/
 [linkedinfe]: https://www.linkedin.com/in/joaquin-ferman-b8b843259/
 [linkedingr]: https://www.linkedin.com/in/victorgrochovski/
 [linkedinro]: [https://google.com/](https://www.linkedin.com/in/gonzalo-rossetti-146219288/)https://www.linkedin.com/in/gonzalo-rossetti-146219288/
