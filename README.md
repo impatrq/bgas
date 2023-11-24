@@ -79,4 +79,4 @@ Si bien a un biodigestor se le puede sacar el maximo provecho en un establecimie
 [linkedinda]: https://www.linkedin.com/in/santiago-daglio-96b716295/
 [linkedinfe]: https://www.linkedin.com/in/joaquin-ferman-b8b843259/
 [linkedingr]: https://www.linkedin.com/in/victorgrochovski/
-[linkedinro]: [https://google.com/](https://www.linkedin.com/in/gonzalo-rossetti-146219288/)https://www.linkedin.com/in/gonzalo-rossetti-146219288/
+[linkedinro]: https://www.linkedin.com/in/gonzalo-rossetti-146219288/
