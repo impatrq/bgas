@@ -4,17 +4,17 @@ Repositorio del proyecto BGas
 ## Integrantes:
 - Britez, Franco  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinbr]
 
-- Caceres, Luca[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinca]
+- Caceres, Luca  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinca]
 
-- Chioli, Lautaro[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinch]
+- Chioli, Lautaro  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinch]
 
-- Daglio, Santiago[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinda]
+- Daglio, Santiago  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinda]
 
-- Ferman, Joaquin[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinfe]
+- Ferman, Joaquin  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinfe]
 
-- Grochovski, Victor[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedingr]
+- Grochovski, Victor  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedingr]
 
-- Rossetti, Gonzalo[<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinro] <br><br/>
+- Rossetti, Gonzalo  [<img align="center" alt="codeSTACKr | LinkedIn" height="32px" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg />][linkedinro] <br><br/>
 <img align="center" width="720px" src="https://github.com/impatrq/bgas/blob/main/Documentacion/IMG_0831.jpeg" />
 
 ## Objetivo:
