@@ -57,6 +57,9 @@ Los residuos organicos deben ser colocados en el recipiente de biogas donde se s
     - CSS
     - index.html
     - JS
+  - Imagenes
+    - Stickers
+    - Logo
 
 ## Seguinos en nuestras redes:
 [<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
