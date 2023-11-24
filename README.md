@@ -54,11 +54,12 @@ BGas es un sistema compuesto por un generador de biogas y un subsistema electron
 ## Seguinos en nuestras redes:
 [<img align="left" alt="codeSTACKr | Instagram" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" height="64px" src="https://github.com/impatrq/bgas/blob/main/App/images/logo.png" />][bgas]
-
+[<img align="left" alt="codeSTACKr | LinkedIn" height="64px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [instagram]: https://instagram.com/proyecto.bgas?igshid=NGVhN2U2NjQ0Yg==
 [bgas]: https://bgas.ar/
+[Linkedin]: https://www.linkedin.com/company/101246268
 [linkedinbr]: https://www.linkedin.com/in/franco-britez-b33523277/
 [linkedinca]: https://www.linkedin.com/in/luca-c%C3%A1ceres-996389281/
 [linkedinch]: https://www.linkedin.com/in/lautaro-chioli-87a68a27a/
